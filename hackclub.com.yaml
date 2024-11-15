@@ -3198,3 +3198,7 @@ riceathon:
   - ttl: 600
     type: CNAME
     value: cname.vercel-dns.com.
+kss-hackathon:
+  - ttl: 600
+    type: CNAME
+    value: https://hacc-one.vercel.app/
