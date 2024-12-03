@@ -3203,4 +3203,4 @@ _vercel:
   ttl: 600
   type: TXT
   values:
-    vc-domain-verify=kss-hackathon.hackclub.com,22a459acdb0df48bae64
+    -vc-domain-verify=kss-hackathon.hackclub.com,22a459acdb0df48bae64
