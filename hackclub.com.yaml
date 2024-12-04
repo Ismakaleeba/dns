@@ -3215,3 +3215,10 @@ portal:
   - ttl: 600
     type: A
     value: 173.255.236.153
+
+_vercel:
+  ttl: 600
+  type: TXT
+  values:
+    - vc-domain-verify=hackthesky.hackclub.com,8481bf07a5524ee8f4a2
+
